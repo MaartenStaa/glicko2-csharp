@@ -91,7 +91,7 @@ namespace Glicko2
         /// still be calculated even if they don't actually compete.
         /// </summary>
         /// <param name="rating"></param>
-        public void AddParticipants(Rating rating)
+        public void AddParticipant(Rating rating)
         {
             _participants.Add(rating);
         }
