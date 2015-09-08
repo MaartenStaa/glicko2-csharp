@@ -41,7 +41,6 @@ calculator.UpdateRatings(results);
 // Access the getRating, getRatingDeviation, and getVolatility methods of each
 // player's Rating to see the new values.
 var players = new[] {player1, player2, player3};
-foreach (array(player1, player2, player3) as index => player) {
 for (var index = 0; index < players.Length; index++)
 {
 	var player = players[index];
