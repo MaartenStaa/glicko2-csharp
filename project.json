@@ -11,7 +11,9 @@
                     "type": "platform"
                 }
             }
-        }
+        },
+		"net45": {}
     },
-    authors: [ "MaartenStaa" ]
+    "runtimes": { "win": {}, "ubuntu.16.04-x64": {} },
+    "authors": [ "MaartenStaa" ]
 }
