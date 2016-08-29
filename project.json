@@ -7,10 +7,13 @@
         "netcoreapp1.0": {
             "dependencies": {
                 "Microsoft.NETCore.App": {
-                    "version": "1.0.0-rc2-3002702",
+                    "version": "1.0.0",
                     "type": "platform"
                 }
             }
-        }
-    }
+        },
+        "net45": {}
+    },
+    "runtimes": { "any": {}, "win": {} },
+    "authors": [ "MaartenStaa" ]
 }
